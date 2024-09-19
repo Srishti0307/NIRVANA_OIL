@@ -1,0 +1,7 @@
+# siro_dataset.yaml
+
+train: Outputs\train
+val: Outputs\val
+
+nc: 2  # Number of classes (oil and non-oil)
+names: ['oil', 'non_oil']  # Class names
